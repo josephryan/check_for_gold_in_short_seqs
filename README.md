@@ -47,7 +47,7 @@ perldoc check_for_gold_in_short_seqs.pl
 COPYRIGHT AND LICENCE
 ------------
 
-Copyright (C) 2019 by Joseph Ryan
+Copyright (C) 2020 by Joseph Ryan
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
